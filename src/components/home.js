@@ -1,8 +1,8 @@
 import React from "react";
 import "./home.css";
 import Date from "./date.png";
-import loca from "./people (1).png";
-import people from "./pin.png";
+import loca from "./pin.png";
+import people from "./people (1).png";
 import warn from "./warning.png";
 
 function home() {
@@ -22,9 +22,9 @@ function home() {
         </p>
       </div>
       <div className="jan">
-        <img className="" src={Date} alt="" />
+        <img className="date" src={Date} alt="" />
         <img className="loca" src={loca} alt="" />
-
+        <p className="address">269 Clinton Ave, Brooklyn, NYE</p>
         <img className="pep" src={people} alt="" />
         <img className="warn" src={warn} alt="" />
       </div>

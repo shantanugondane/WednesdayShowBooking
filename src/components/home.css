@@ -49,16 +49,26 @@ img {
   text-align: center;
   font-family: "Kanit", sans-serif;
 }
-.jan {
-  padding-right: 120rem;
-  margin-top: 3rem;
-}
+
 .loca {
   width: 3rem;
+  margin-left: 2rem;
+  margin-bottom: 4rem;
 }
 .pep {
   width: 3rem;
+  position: relative;
+  right: 2rem;
+  top: 3rem;
 }
 .warn {
   width: 3rem;
+  margin-top: 5rem;
+  margin-left: 10rem;
+}
+.date {
+  margin-left: 17rem;
+}
+.address {
+  display: inline-block;
 }
