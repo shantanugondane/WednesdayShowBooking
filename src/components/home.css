@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap");
+body {
+  overflow-y: hidden;
+  background-image: url("./wed.jpg");
+}
+img {
+  max-width: 100%;
+}
+
+.home {
+  color: white;
+  position: relative;
+  right: 35rem;
+  font-size: 2.5rem;
+}
+
+.main-nav {
+  background-color: #00010d;
+}
+.main-heading {
+  margin-top: 5rem;
+  margin-left: 15rem;
+  font-size: 7rem;
+  color: #fcffd3;
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+}
+.header {
+  width: 75rem;
+}
+.so {
+  color: #9b9a9d;
+  font-family: "Poppins", sans-serif;
+}
+.dark {
+  font-family: "Poppins", sans-serif;
+}
+.para {
+  width: 80rem;
+}
+.para-content {
+  color: #959595;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: "Kanit", sans-serif;
+}
+.jan {
+  padding-right: 120rem;
+  margin-top: 3rem;
+}
+.loca {
+  width: 3rem;
+}
+.pep {
+  width: 3rem;
+}
+.warn {
+  width: 3rem;
+}
