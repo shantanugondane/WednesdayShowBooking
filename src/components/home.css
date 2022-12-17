@@ -28,6 +28,14 @@ img {
   font-family: "Poppins", sans-serif;
   text-align: left;
 }
+.feat {
+  display: inline-block;
+  position: relative;
+  color: #fcffd3;
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  left: 14rem;
+}
 .header {
   width: 75rem;
 }
@@ -43,7 +51,7 @@ img {
 }
 .para-content {
   color: #959595;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
   margin-left: 2rem;
   font-size: 1.5rem;
   text-align: center;
@@ -51,24 +59,91 @@ img {
 }
 
 .loca {
-  width: 3rem;
-  margin-left: 2rem;
-  margin-bottom: 4rem;
+  width: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 6rem;
 }
 .pep {
-  width: 3rem;
+  width: 2rem;
   position: relative;
-  right: 2rem;
-  top: 3rem;
+  right: 18.5rem;
+  top: 0.2rem;
 }
 .warn {
-  width: 3rem;
-  margin-top: 5rem;
-  margin-left: 10rem;
+  position: relative;
+  width: 2rem;
+  top: 0.4rem;
+  right: 16.8rem;
 }
 .date {
   margin-left: 17rem;
 }
 .address {
   display: inline-block;
+  position: relative;
+  color: white;
+  bottom: 2.7rem;
+  left: 0.5rem;
+  font-weight: bold;
+  font-size: large;
+}
+.people {
+  display: inline-block;
+  position: relative;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  right: 18rem;
+  top: 0.5rem;
+}
+.warning {
+  display: inline-block;
+  position: relative;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  top: 0.7rem;
+  right: 16.9rem;
+}
+.pets {
+  color: #b88743;
+}
+.input {
+  display: inline-block;
+  position: relative;
+  left: 35rem;
+  bottom: 2.3rem;
+}
+.name {
+  display: inline-block;
+  position: relative;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  top: 3.5rem;
+  right: 41rem;
+}
+.button {
+  display: inline-block;
+  position: relative;
+  width: 35rem;
+  height: 5rem;
+  left: 17rem;
+  bottom: 1rem;
+  border-radius: 1rem;
+  color: white;
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  background-color: #b35611;
+  box-shadow: #959595;
+  margin: auto;
+}
+.button:hover {
+  background-color: black;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }

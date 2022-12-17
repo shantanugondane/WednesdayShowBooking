@@ -26,7 +26,16 @@ function home() {
         <img className="loca" src={loca} alt="" />
         <p className="address">269 Clinton Ave, Brooklyn, NYE</p>
         <img className="pep" src={people} alt="" />
+        <p className="people">200-244</p>
         <img className="warn" src={warn} alt="" />
+        <p className="warning">
+          <spam className="pets">Warning!</spam> Pets not Allowed
+        </p>
+        <p className="name">Enter Name:=</p>
+        <form>
+          <input className="input" type="text" />
+        </form>
+        <button class="button">Book Now!!!</button>
       </div>
     </>
   );
