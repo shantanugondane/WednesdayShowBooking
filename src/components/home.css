@@ -167,16 +167,19 @@ img {
   width: 4rem;
   left: 0.4rem;
   top: 0.8rem;
+  opacity: 20%;
 }
 .insta {
   position: relative;
   width: 4rem;
   left: 0.5rem;
   top: 1.5rem;
+  opacity: 20%;
 }
 .pin {
   position: relative;
   width: 4rem;
   left: 0.6rem;
   top: 2.1rem;
+  opacity: 20%;
 }
