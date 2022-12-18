@@ -4,6 +4,9 @@ import Date from "./date.png";
 import loca from "./pin.png";
 import people from "./people (1).png";
 import warn from "./warning.png";
+import facebook from "./facebook (1).png";
+import insta from "./instagram (1).png";
+import Pin from "./pinterest.png";
 
 function home() {
   return (
@@ -33,9 +36,22 @@ function home() {
         </p>
         <p className="name">Enter Name:=</p>
         <form>
-          <input className="input" type="text" />
+          <input className="input" type="text" placeholder="123-45-678" />
         </form>
         <button class="button">Book Now!!!</button>
+      </div>
+      <div className="social">
+        <p>
+          <a href="https://www.facebook.com/people/W%C4%9Bd%C5%84es%C4%91a%C3%BD-A%C4%91d%C4%81m%C5%A1/100088355147707/">
+            <img className="face" src={facebook} alt="" />
+          </a>
+          <a href="https://www.facebook.com/people/W%C4%9Bd%C5%84es%C4%91a%C3%BD-A%C4%91d%C4%81m%C5%A1/100088355147707/">
+            <img className="insta" src={insta} alt="" />
+            <a href="https://www.facebook.com/people/W%C4%9Bd%C5%84es%C4%91a%C3%BD-A%C4%91d%C4%81m%C5%A1/100088355147707/">
+              <img className="pin" src={Pin} alt="" />
+            </a>
+          </a>
+        </p>
       </div>
     </>
   );
