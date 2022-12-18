@@ -162,3 +162,21 @@ img {
 /* .social-one {
   left: 20rem;
 } */
+.face {
+  position: relative;
+  width: 4rem;
+  left: 0.4rem;
+  top: 0.8rem;
+}
+.insta {
+  position: relative;
+  width: 4rem;
+  left: 0.5rem;
+  top: 1.5rem;
+}
+.pin {
+  position: relative;
+  width: 4rem;
+  left: 0.6rem;
+  top: 2.1rem;
+}

@@ -42,12 +42,12 @@ function home() {
       </div>
       <div className="social">
         <p>
-          <a href="https://www.facebook.com/people/W%C4%9Bd%C5%84es%C4%91a%C3%BD-A%C4%91d%C4%81m%C5%A1/100088355147707/">
+          <a href="https://www.facebook.com/groups/wednesdaynetflix/">
             <img className="face" src={facebook} alt="" />
           </a>
-          <a href="https://www.facebook.com/people/W%C4%9Bd%C5%84es%C4%91a%C3%BD-A%C4%91d%C4%81m%C5%A1/100088355147707/">
+          <a href="https://www.instagram.com/wednesdaynetflix/?hl=en">
             <img className="insta" src={insta} alt="" />
-            <a href="https://www.facebook.com/people/W%C4%9Bd%C5%84es%C4%91a%C3%BD-A%C4%91d%C4%81m%C5%A1/100088355147707/">
+            <a href="https://in.pinterest.com/pin/551409548139636237/">
               <img className="pin" src={Pin} alt="" />
             </a>
           </a>
