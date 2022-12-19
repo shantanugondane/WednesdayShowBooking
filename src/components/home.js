@@ -34,9 +34,9 @@ function home() {
         <p className="warning">
           <spam className="pets">Warning!</spam> Pets not Allowed
         </p>
-        <p className="name">Enter Name:=</p>
+        <p className="name"></p>
         <form>
-          <input className="input" type="text" placeholder="123-45-678" />
+          <input className="input" type="text" placeholder="Email" />
         </form>
         <button class="button">Book Now!!!</button>
       </div>

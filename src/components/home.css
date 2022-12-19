@@ -15,9 +15,10 @@ img {
   position: relative;
   right: 35rem;
   font-size: 2.5rem;
+  font-family: "Poppins", sans-serif;
 }
 .home:hover {
-  color: #3e8e41;
+  color: orange;
 }
 .main-nav {
   background-color: #00010d;
@@ -113,9 +114,15 @@ img {
 .input {
   display: inline-block;
   position: relative;
-  left: 35rem;
-  bottom: 2.3rem;
-  background-color: #3e8e41;
+  left: 27.5rem;
+  bottom: 3rem;
+  background-color: black;
+  width: 24rem;
+  height: 3rem;
+  border-radius: 0.5rem;
+  border-color: white;
+  font-weight: bolder;
+  color: white;
 }
 .name {
   display: inline-block;
@@ -154,7 +161,7 @@ img {
   position: relative;
   width: 5rem;
   height: 15rem;
-  background-color: rgba(0, 0, 0, 0.794);
+  background-color: rgba(0, 0, 0, 0.631);
   left: 154rem;
   bottom: 35rem;
   border-radius: 0.5rem;
@@ -167,19 +174,19 @@ img {
   width: 4rem;
   left: 0.4rem;
   top: 0.8rem;
-  opacity: 20%;
+  opacity: 80%;
 }
 .insta {
   position: relative;
   width: 4rem;
   left: 0.5rem;
   top: 1.5rem;
-  opacity: 20%;
+  opacity: 80%;
 }
 .pin {
   position: relative;
   width: 4rem;
   left: 0.6rem;
   top: 2.1rem;
-  opacity: 20%;
+  opacity: 80%;
 }

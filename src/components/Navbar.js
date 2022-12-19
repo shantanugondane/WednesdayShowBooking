@@ -13,15 +13,9 @@ function ColorSchemesExample() {
               Wednesday
             </Navbar.Brand>
             <Nav className="me-auto">
-              <Nav.Link className="feat" href="#home">
-                Home
-              </Nav.Link>
-              <Nav.Link className="feat" href="#features">
-                Features
-              </Nav.Link>
-              <Nav.Link className="feat" href="#pricing">
-                Pricing
-              </Nav.Link>
+              <Nav.Link className="feat" href="#home"></Nav.Link>
+              <Nav.Link className="feat" href="#features"></Nav.Link>
+              <Nav.Link className="feat" href="#pricing"></Nav.Link>
             </Nav>
           </Container>
         </Navbar>
